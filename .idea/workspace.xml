@@ -5,33 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe08b8a-49aa-4bbe-8faa-871e1c1a6d47" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/build 복사본.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/classes/java/main/com/fastcampus/javaoop/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/classes/java/main/com/fastcampus/javaoop/logic/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/classes/java/main/com/fastcampus/javaoop/logic/JavaSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/classes/java/main/com/fastcampus/javaoop/logic/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/classes/java/main/com/fastcampus/javaoop/service/SortService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/classes/java/test/com/fastcampus/javaoop/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/classes/java/test/com/fastcampus/javaoop/logic/BubbleSortTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/classes/java/test/com/fastcampus/javaoop/logic/JavaSortTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/classes/java/test/com/fastcampus/javaoop/service/SortServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/reports/tests/test/classes/com.fastcampus.javaoop.service.SortServiceTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/reports/tests/test/packages/com.fastcampus.javaoop.service.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/test-results/test/TEST-com.fastcampus.javaoop.service.SortServiceTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build 복사본/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle 복사본/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle 복사본/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew 복사본" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew 복사본.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings 복사본.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,21 +47,6 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/jian/Desktop/practice/fastcampus-spring-practice&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="fastcampus-spring-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="fastcampus-spring-practice" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
